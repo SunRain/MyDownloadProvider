@@ -1,0 +1,4 @@
+http://www.w3c.com.cn/guava%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%9Aguava-cache
+
+　Guava Cache
+http://chuansong.me/n/10831
